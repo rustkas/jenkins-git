@@ -9,6 +9,7 @@ pipeline {
                     ls -lah
                 '''
                 shell 'echo "Hello Jenkins"'
+                shell 'echo "Hello Jenkins"'
             }
         }
     }
