@@ -1,2 +1,3 @@
-A simple project to test jenkins git integration And it should be triggered by any change (in OS independent style)
+A simple project to test jenkins git integration And it should be triggered by any change (in OS independent style).
+This is very useful when need build a remote project or projects.
 
